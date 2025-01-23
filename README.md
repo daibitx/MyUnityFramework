@@ -53,7 +53,3 @@ MyFramework 是一个为 Unity 开发的数字孪生工具框架，旨在简化�
 ## 📄 许可证
 
 此项目基于 MIT 许可证开源。详情请参阅 [LICENSE](https://github.com/AkaJameson/MyFramework/blob/main/LICENSE)。
-
-## 🙏 鸣谢
-
-感谢所有为此项目贡献代码和提出建议的开发者们。
