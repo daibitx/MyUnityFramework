@@ -1,3 +1,33 @@
+⚠️ Disclaimer: This repository contains very old code from my early Unity learning days.
+It is messy, experimental, and absolutely not suitable for any real project.
+
+This project — MyFramework (Digital Twin / Dispose) — was one of my personal playgrounds when I first started learning Unity and programming. The code style reflects a true beginner: inconsistent structure, unclear architecture, duplicated logic, and many "please don't ask why" moments.
+
+I uploaded it from an old USB drive about two years ago just to keep a record of my learning journey.
+
+Please do NOT use this code in production (or anywhere else, really).
+
+It exists purely as a nostalgic snapshot of how I used to write code — nothing more.
+
+If you browse this repository, enjoy the chaos… but you’ve been warned. 😄
+
+
+
+⚠️ 声明：这个仓库里的代码非常古老，是我刚接触 Unity 时写的练手作品。
+代码结构混乱、风格稚嫩，仅作为学习记录保存，不适合任何实际项目使用。
+
+这个项目 —— MyFramework（数字孪生 / dispose） —— 是我当初学习 Unity 时的个人玩具。
+代码中充满了新手时期的写法：架构不清晰、逻辑重复、命名随意，还有许多“不要问我当时为什么这么写”的片段。
+
+大约两年前，我从一个老 U 盘里把它整理上传，只是为了留个纪念。
+
+请不要在任何正式项目中使用本代码（甚至最好别参考）。
+
+它纯粹是我学习历程中的一个快照，仅作回顾与存档用途。
+
+如果你坚持浏览它，请享受这份混乱，但——提前提醒你了。😄
+
+
 # MyFramework
 
 MyFramework 是一个为 Unity 开发的数字孪生工具框架，旨在简化和加速数字孪生应用的开发。该框架提供了一系列模块化的工具和管理器，帮助开发者更高效地构建复杂的应用程序。
